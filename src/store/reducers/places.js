@@ -16,7 +16,7 @@ import {
             key: Math.random(),
             name: action.placeName,
             image: {
-                uri: "https://media-cdn.tripadvisor.com/media/photo-s/07/09/5f/0b/the-claddagh.jpg"
+                uri: action.image.uri
             },
             location: action.location
           })
