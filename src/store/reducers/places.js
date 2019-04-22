@@ -17,7 +17,8 @@ import {
             name: action.placeName,
             image: {
                 uri: "https://media-cdn.tripadvisor.com/media/photo-s/07/09/5f/0b/the-claddagh.jpg"
-            }
+            },
+            location: action.location
           })
         };
       case DELETE_PLACE:
