@@ -57,3 +57,4 @@ buck-out/
 
 */awesome-places.json
 */AndroidManifest.xml
+android/app/src/main/AndroidManifest.xml
